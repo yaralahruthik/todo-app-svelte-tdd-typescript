@@ -1,4 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>
-  Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation
-</p>
+<h1>Tasks</h1>
+
+<ul>
+  <li>Learn Svelte</li>
+  <li>Learn TypeScript</li>
+  <li>Learn TDD</li>
+</ul>
